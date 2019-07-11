@@ -29,7 +29,9 @@
   pip install pandas ibm_watson
   
   ```
-                                                  OR
+  
+                                                  ** OR **
+                                                  
   ```
   pip install requirements.txt
   
