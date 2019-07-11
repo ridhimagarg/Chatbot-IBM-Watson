@@ -37,6 +37,14 @@
   
   ```
   
+  ### How to use
+  
+  You have to just clone this [repo](https://github.com/ri-dhimagarg1/ibm_deployment) or download this code and extract it.
+  
+  
+  
+  
+  
   
   
  
