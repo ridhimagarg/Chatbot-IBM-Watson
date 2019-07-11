@@ -21,6 +21,14 @@
   
   You can just install all the required libraries using this command in command line 
   
+  Tkinter and sqlite3 is standard library. You don't need to install it.
+  
+  You can either use these commands -:
+  
+  ``` pip install ibm_watson
+      pip install pandas
+   ```
+  
   ```
   pip install requirements.txt
   
