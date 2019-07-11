@@ -25,8 +25,10 @@
   
   You can either use these commands -:
   
-  ``` pip install pandas ibm_watson
-   ```
+  ``` 
+  pip install pandas ibm_watson
+  
+  ```
   
   ```
   pip install requirements.txt
