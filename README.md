@@ -1,4 +1,4 @@
-# Intro
+### Intro
 
   Connecting IBM Assistant with Python with simple GUI using tkinter.
   
@@ -8,6 +8,22 @@
   
   More for demo see below images
   
-  # Dependencies
+  ### Dependencies
   ---
+  #### Getting Started
+  
+  Requirements
+  
+  > Tkinter
+  > Ibm watson 
+  > sqlite3
+  > Pandas
+  
+  You can just install all the required libraries using this command in command line 
+  
+  
+  
+ 
+  
+  
   
