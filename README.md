@@ -15,11 +15,16 @@
   Requirements
   
   > Tkinter
-  > Ibm watson 
+  > Ibm_watson 
   > sqlite3
   > Pandas
   
   You can just install all the required libraries using this command in command line 
+  
+  ```
+  pip install requirements.txt
+  
+  ```
   
   
   
