@@ -30,7 +30,7 @@
   
   ```
   
-                                                  ** OR **
+                                                    **OR**
                                                   
   ```
   pip install requirements.txt
