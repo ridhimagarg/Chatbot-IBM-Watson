@@ -47,7 +47,7 @@
   
   So, we have apikey, url.
   
-  <img src=''>
+  <img src='https://github.com/ri-dhimagarg1/ibm_deployment/blob/master/IBM1.PNG'>
 
 Other details are also present like Assistant ID etc.
 
