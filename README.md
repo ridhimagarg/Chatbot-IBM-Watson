@@ -1,4 +1,4 @@
-### Intro
+### IBM Assistant Window Application
 
 :speech_balloon:
 
