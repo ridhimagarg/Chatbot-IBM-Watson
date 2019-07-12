@@ -1,4 +1,4 @@
-### IBM Assistant Window Application
+# IBM Assistant Window Application
 
 :speech_balloon:
 
