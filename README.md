@@ -1,5 +1,7 @@
 ### Intro
 
+:speech_balloon:
+
   Connecting IBM Assistant with Python with simple GUI using tkinter.
   
   More about IBM assistant and how to build chatbot using IBM Watson read this -: [IBM Assistant](https://www.ibm.com/cloud/watson-assistant/). 
@@ -14,20 +16,20 @@
   
   Requirements
   
-  > Tkinter
-  > Ibm_watson 
-  > sqlite3
-  > Pandas
+  :point_right: Tkinter
+  :point_right: Ibm_watson 
+  :point_right: sqlite3
+  :point_right: Pandas
   
-  > Databse(SQLITE3) 
+  :point_right: Databse(SQLITE3) 
   
-  In this library Sqlite is been used but you can use any othet too. If you want to download DB Browser for Sqlite for showing up all     tables, download it from [here](https://download.sqlitebrowser.org/SQLiteDatabaseBrowserPortable_3.11.2_English.paf.exe)
+  In this library Sqlite is been used but you can use any other database too. If you want to download DB Browser for Sqlite for showing up all     tables, download it from [here](https://download.sqlitebrowser.org/SQLiteDatabaseBrowserPortable_3.11.2_English.paf.exe)
   
   You can just install all the required libraries using this command in command line 
   
   Tkinter and sqlite3 is standard library. You don't need to install it.
   
-  You can either use these commands -:
+  You can use either of these commands -:
   
   ``` 
   pip install pandas ibm_watson
