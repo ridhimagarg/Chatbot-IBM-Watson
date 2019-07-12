@@ -16,10 +16,10 @@
   
   Requirements
   
-  :point_right: Tkinter
-  :point_right: Ibm_watson 
-  :point_right: sqlite3
-  :point_right: Pandas
+  :point_right: Tkinter<br/>
+  :point_right: Ibm_watson<br/> 
+  :point_right: sqlite3<br/>
+  :point_right: Pandas<br/>
   
   :point_right: Databse(SQLITE3) 
   
