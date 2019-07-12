@@ -1,4 +1,4 @@
-# IBM Assistant Window Application
+# IBM Assistant Windows Application
 
 :speech_balloon:
 
@@ -66,6 +66,14 @@ So, just launch your assistant and go to assistant tab. In that you will have op
 After that in settings go to API details tab. You will get all details.
 
 You have to replace all these details in **app.py**
+
+#### Executing application
+
+Go to the cloned repository and run the following command 
+
+```
+python app.py
+```
 
 
 
