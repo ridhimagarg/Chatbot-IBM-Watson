@@ -19,6 +19,10 @@
   > sqlite3
   > Pandas
   
+  > Databse(SQLITE3) 
+  
+  In this library Sqlite is been used but you can use any othet too. If you want to download DB Browser for Sqlite for showing up all     tables, download it from [here](https://download.sqlitebrowser.org/SQLiteDatabaseBrowserPortable_3.11.2_English.paf.exe)
+  
   You can just install all the required libraries using this command in command line 
   
   Tkinter and sqlite3 is standard library. You don't need to install it.
@@ -60,6 +64,8 @@ So, just launch your assistant and go to assistant tab. In that you will have op
 After that in settings go to API details tab. You will get all details.
 
 You have to replace all these details in **app.py**
+
+
 
 
 
