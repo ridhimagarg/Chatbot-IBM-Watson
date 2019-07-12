@@ -39,13 +39,15 @@
   
   ### How to use
   
+  #### Setting up app.py
+  
   You have to just clone this [repo](https://github.com/ri-dhimagarg1/ibm_deployment) or download this code and extract it.
   
   After cloning, just go this folder and go to **app.py**
   
   In **app.py** modify your credentials of ibm in the **CREDENTIALS THING** section.
   
-  So, we have apikey, url.
+  In IBM Assistant we have apikey, url.
   
   <img src='https://github.com/ri-dhimagarg1/ibm_deployment/blob/master/IBM1.PNG'>
 
@@ -53,9 +55,15 @@ Other details are also present like Assistant ID etc.
 
 So, just launch your assistant and go to assistant tab. In that you will have options like setting in the right corner. Like below shown -:
 
-
+<img src='https://github.com/ri-dhimagarg1/ibm_deployment/blob/master/ibm2.PNG'>
 
 After that in settings go to API details tab. You will get all details.
+
+You have to replace all these details in **app.py**
+
+
+
+
 
   
   
