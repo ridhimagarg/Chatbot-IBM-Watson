@@ -1,0 +1,2 @@
+ibm-watson==3.0.4
+pandas==0.24.2
